@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10 12:59:28 IST",
+  "generated_at": "2026-10-10 13:07:46 IST",
   "system": {
     "name": "Confirmed Breakout Runner",
     "version": "2.0 (136-Stock Momentum Compounder)",
@@ -31,7 +31,7 @@
       "risk_pct": 1.27,
       "target_measured": 1685.49,
       "added_at": "2026-10-10 12:24:02",
-      "bars_in_watch": 1
+      "bars_in_watch": 2
     }
   ],
   "closed_trades": [],
@@ -43,19 +43,7 @@
     "profit_factor": 2.12,
     "payoff_ratio": 3.11,
     "max_drawdown_pct": -21.0,
-    "total_trades": 113,
-    "strategy_name": "Choice 2: Confirmed Breakout Runner (136-Stock Momentum Compounder)",
-    "universe_size": 136,
-    "initial_capital": 50000.0,
-    "net_pnl_pct": 333.4,
-    "avg_win_pct": 18.67,
-    "avg_loss_pct": -6.0,
-    "avg_hold_days": 14.8,
-    "calmar_ratio": 1.62,
-    "max_slots": 3,
-    "slot_allocation_pct": 33.3,
-    "exit_rule": "20-EMA Daily Close (min hold 4 days) or Shakeout Low SL",
-    "volume_rule": "Breakout Day Volume >= 1.5x SMA20"
+    "total_trades": 113
   },
   "equity_curve_5y": [
     {
