@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12 20:22:54 IST",
+  "generated_at": "2026-10-13 00:50:49 IST",
   "system": {
     "name": "Confirmed Breakout Runner",
     "version": "2.0 (136-Stock Momentum Compounder)",
@@ -30,8 +30,7 @@
       "pole_gain_pct": 23.7,
       "risk_pct": 1.27,
       "target_measured": 1685.49,
-      "added_at": "2026-10-10 12:24:02",
-      "bars_in_watch": 4
+      "added_at": "2026-10-13 00:50:49"
     }
   ],
   "closed_trades": [],
