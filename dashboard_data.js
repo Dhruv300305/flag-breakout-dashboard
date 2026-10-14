@@ -1,5 +1,5 @@
 window.BREAKOUT_DASHBOARD_DATA = {
-  "generated_at": "2026-10-13 22:38:49 IST",
+  "generated_at": "2026-10-14 20:11:01 IST",
   "system": {
     "name": "Confirmed Breakout Runner",
     "version": "2.0 (136-Stock Momentum Compounder)",
@@ -31,7 +31,7 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "risk_pct": 1.27,
       "target_measured": 1685.49,
       "added_at": "2026-10-13 00:50:49",
-      "bars_in_watch": 1
+      "bars_in_watch": 2
     }
   ],
   "closed_trades": [],
