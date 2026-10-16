@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15 19:55:44 IST",
+  "generated_at": "2026-10-16 19:47:07 IST",
   "system": {
     "name": "Confirmed Breakout Runner",
     "version": "2.0 (136-Stock Momentum Compounder)",
@@ -17,23 +17,7 @@
     "slot_size": 16666.67
   },
   "open_positions": {},
-  "watchlist": [
-    {
-      "symbol": "FINCABLES",
-      "shakeout_date": "2026-10-09",
-      "bars_ago": 0,
-      "flag_high": 1499.0,
-      "flag_supp": 1395.0,
-      "shakeout_low": 1377.9,
-      "sl_price": 1371.01,
-      "current_close": 1388.7,
-      "pole_gain_pct": 23.7,
-      "risk_pct": 1.27,
-      "target_measured": 1685.49,
-      "added_at": "2026-10-13 00:50:49",
-      "bars_in_watch": 3
-    }
-  ],
+  "watchlist": [],
   "closed_trades": [],
   "benchmarks_5y": {
     "cagr_pct": 34.09,
