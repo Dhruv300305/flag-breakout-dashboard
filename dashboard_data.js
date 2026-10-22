@@ -1,5 +1,5 @@
 window.BREAKOUT_DASHBOARD_DATA = {
-  "generated_at": "2026-10-21 20:11:06 IST",
+  "generated_at": "2026-10-22 20:11:08 IST",
   "system": {
     "name": "Confirmed Breakout Runner",
     "version": "2.0 (136-Stock Momentum Compounder)",
