@@ -1,5 +1,5 @@
 window.BREAKOUT_DASHBOARD_DATA = {
-  "generated_at": "2026-10-28 21:47:31 IST",
+  "generated_at": "2026-10-29 21:55:32 IST",
   "system": {
     "name": "Confirmed Breakout Runner",
     "version": "2.0 (136-Stock Momentum Compounder)",
@@ -19,6 +19,21 @@ window.BREAKOUT_DASHBOARD_DATA = {
   "open_positions": {},
   "watchlist": [
     {
+      "symbol": "TATAELXSI",
+      "shakeout_date": "2026-10-28",
+      "bars_ago": 0,
+      "flag_high": 3915.0,
+      "flag_supp": 3646.4,
+      "shakeout_low": 3642.9,
+      "sl_price": 3624.69,
+      "current_close": 3755.0,
+      "pole_gain_pct": 23.4,
+      "risk_pct": 3.47,
+      "target_measured": 4391.58,
+      "added_at": "2026-10-28 21:47:31",
+      "bars_in_watch": 1
+    },
+    {
       "symbol": "HCLTECH",
       "shakeout_date": "2026-10-28",
       "bars_ago": 0,
@@ -30,7 +45,8 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "pole_gain_pct": 22.3,
       "risk_pct": 3.09,
       "target_measured": 1636.22,
-      "added_at": "2026-10-28 21:47:31"
+      "added_at": "2026-10-28 21:47:31",
+      "bars_in_watch": 1
     },
     {
       "symbol": "TCS",
@@ -44,21 +60,8 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "pole_gain_pct": 20.1,
       "risk_pct": 2.6,
       "target_measured": 2900.35,
-      "added_at": "2026-10-28 21:47:31"
-    },
-    {
-      "symbol": "TATAELXSI",
-      "shakeout_date": "2026-10-28",
-      "bars_ago": 0,
-      "flag_high": 3915.0,
-      "flag_supp": 3646.4,
-      "shakeout_low": 3642.9,
-      "sl_price": 3624.69,
-      "current_close": 3755.0,
-      "pole_gain_pct": 23.4,
-      "risk_pct": 3.47,
-      "target_measured": 4391.58,
-      "added_at": "2026-10-28 21:47:31"
+      "added_at": "2026-10-28 21:47:31",
+      "bars_in_watch": 1
     }
   ],
   "closed_trades": [],
