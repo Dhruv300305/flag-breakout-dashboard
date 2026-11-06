@@ -1,5 +1,5 @@
 window.BREAKOUT_DASHBOARD_DATA = {
-  "generated_at": "2026-11-05 23:10:04 IST",
+  "generated_at": "2026-11-06 22:26:53 IST",
   "system": {
     "name": "Confirmed Breakout Runner",
     "version": "2.0 (136-Stock Momentum Compounder)",
@@ -19,6 +19,21 @@ window.BREAKOUT_DASHBOARD_DATA = {
   "open_positions": {},
   "watchlist": [
     {
+      "symbol": "TCS",
+      "shakeout_date": "2026-11-05",
+      "bars_ago": 0,
+      "flag_high": 2549.9,
+      "flag_supp": 2480.0,
+      "shakeout_low": 2475.0,
+      "sl_price": 2462.62,
+      "current_close": 2495.7,
+      "pole_gain_pct": 26.5,
+      "risk_pct": 1.33,
+      "target_measured": 2907.42,
+      "added_at": "2026-11-05 23:10:03",
+      "bars_in_watch": 1
+    },
+    {
       "symbol": "TATAELXSI",
       "shakeout_date": "2026-11-04",
       "bars_ago": 0,
@@ -31,35 +46,21 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "risk_pct": 1.93,
       "target_measured": 4283.83,
       "added_at": "2026-11-04 23:02:27",
-      "bars_in_watch": 1
+      "bars_in_watch": 2
     },
     {
       "symbol": "ACUTAAS",
       "shakeout_date": "2026-11-05",
-      "bars_ago": 0,
+      "bars_ago": 1,
       "flag_high": 4045.3,
       "flag_supp": 3776.5,
       "shakeout_low": 3742.5,
       "sl_price": 3723.79,
-      "current_close": 3770.8,
+      "current_close": 3786.6,
       "pole_gain_pct": 30.7,
       "risk_pct": 1.25,
       "target_measured": 4660.98,
-      "added_at": "2026-11-05 23:10:03"
-    },
-    {
-      "symbol": "TCS",
-      "shakeout_date": "2026-11-05",
-      "bars_ago": 0,
-      "flag_high": 2549.9,
-      "flag_supp": 2480.0,
-      "shakeout_low": 2475.0,
-      "sl_price": 2462.62,
-      "current_close": 2495.7,
-      "pole_gain_pct": 26.5,
-      "risk_pct": 1.33,
-      "target_measured": 2907.42,
-      "added_at": "2026-11-05 23:10:03"
+      "added_at": "2026-11-06 22:26:53"
     }
   ],
   "closed_trades": [],
