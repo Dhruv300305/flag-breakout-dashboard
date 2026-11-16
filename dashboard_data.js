@@ -1,5 +1,5 @@
 window.BREAKOUT_DASHBOARD_DATA = {
-  "generated_at": "2026-11-13 22:53:30 IST",
+  "generated_at": "2026-11-17 01:22:15 IST",
   "system": {
     "name": "Confirmed Breakout Runner",
     "version": "2.0 (136-Stock Momentum Compounder)",
@@ -19,6 +19,21 @@ window.BREAKOUT_DASHBOARD_DATA = {
   "open_positions": {},
   "watchlist": [
     {
+      "symbol": "TCS",
+      "shakeout_date": "2026-11-13",
+      "bars_ago": 0,
+      "flag_high": 2565.0,
+      "flag_supp": 2408.2,
+      "shakeout_low": 2400.2,
+      "sl_price": 2388.2,
+      "current_close": 2407.5,
+      "pole_gain_pct": 28.1,
+      "risk_pct": 0.8,
+      "target_measured": 2939.33,
+      "added_at": "2026-11-13 22:53:30",
+      "bars_in_watch": 1
+    },
+    {
       "symbol": "TECHM",
       "shakeout_date": "2026-11-12",
       "bars_ago": 0,
@@ -31,6 +46,21 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "risk_pct": 1.23,
       "target_measured": 2067.62,
       "added_at": "2026-11-12 23:14:57",
+      "bars_in_watch": 2
+    },
+    {
+      "symbol": "MSUMI",
+      "shakeout_date": "2026-11-13",
+      "bars_ago": 0,
+      "flag_high": 40.25,
+      "flag_supp": 38.45,
+      "shakeout_low": 38.37,
+      "sl_price": 38.18,
+      "current_close": 39.02,
+      "pole_gain_pct": 20.7,
+      "risk_pct": 2.16,
+      "target_measured": 44.72,
+      "added_at": "2026-11-13 22:53:30",
       "bars_in_watch": 1
     },
     {
@@ -46,49 +76,7 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "risk_pct": 2.47,
       "target_measured": 956.65,
       "added_at": "2026-11-11 22:58:20",
-      "bars_in_watch": 2
-    },
-    {
-      "symbol": "HCLTECH",
-      "shakeout_date": "2026-11-11",
-      "bars_ago": 2,
-      "flag_high": 1469.0,
-      "flag_supp": 1399.5,
-      "shakeout_low": 1389.2,
-      "sl_price": 1382.25,
-      "current_close": 1378.0,
-      "pole_gain_pct": 22.8,
-      "risk_pct": 0.91,
-      "target_measured": 1645.89,
-      "added_at": "2026-11-13 22:53:30"
-    },
-    {
-      "symbol": "MSUMI",
-      "shakeout_date": "2026-11-13",
-      "bars_ago": 0,
-      "flag_high": 40.25,
-      "flag_supp": 38.45,
-      "shakeout_low": 38.37,
-      "sl_price": 38.18,
-      "current_close": 39.02,
-      "pole_gain_pct": 20.7,
-      "risk_pct": 2.16,
-      "target_measured": 44.72,
-      "added_at": "2026-11-13 22:53:30"
-    },
-    {
-      "symbol": "TCS",
-      "shakeout_date": "2026-11-13",
-      "bars_ago": 0,
-      "flag_high": 2565.0,
-      "flag_supp": 2408.2,
-      "shakeout_low": 2400.2,
-      "sl_price": 2388.2,
-      "current_close": 2407.5,
-      "pole_gain_pct": 28.1,
-      "risk_pct": 0.8,
-      "target_measured": 2939.33,
-      "added_at": "2026-11-13 22:53:30"
+      "bars_in_watch": 3
     },
     {
       "symbol": "BHARTIHEXA",
@@ -102,7 +90,21 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "pole_gain_pct": 23.2,
       "risk_pct": 0.96,
       "target_measured": 1966.35,
-      "added_at": "2026-11-13 22:53:30"
+      "added_at": "2026-11-17 01:22:15"
+    },
+    {
+      "symbol": "HCLTECH",
+      "shakeout_date": "2026-11-11",
+      "bars_ago": 2,
+      "flag_high": 1469.0,
+      "flag_supp": 1399.5,
+      "shakeout_low": 1389.2,
+      "sl_price": 1382.25,
+      "current_close": 1378.0,
+      "pole_gain_pct": 22.8,
+      "risk_pct": 0.91,
+      "target_measured": 1645.89,
+      "added_at": "2026-11-17 01:22:15"
     }
   ],
   "closed_trades": [],
