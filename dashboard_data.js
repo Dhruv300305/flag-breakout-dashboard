@@ -1,5 +1,5 @@
 window.BREAKOUT_DASHBOARD_DATA = {
-  "generated_at": "2026-11-24 03:10:59 IST",
+  "generated_at": "2026-11-25 01:51:46 IST",
   "system": {
     "name": "Confirmed Breakout Runner",
     "version": "2.0 (136-Stock Momentum Compounder)",
@@ -8,13 +8,13 @@ window.BREAKOUT_DASHBOARD_DATA = {
   },
   "capital": {
     "initial_pool": 50000.0,
-    "total_equity": 50549.92,
+    "total_equity": 50676.64,
     "cash_balance": 33406.08,
     "invested_capital": 16593.92,
-    "unrealized_pnl_rs": 549.92,
+    "unrealized_pnl_rs": 676.64,
     "max_slots": 3,
     "slots_filled": 1,
-    "slot_size": 16849.97
+    "slot_size": 16892.21
   },
   "open_positions": {
     "WELSPUNLIV": {
@@ -27,14 +27,14 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "sl_price": 242.14,
       "flag_high": 259.28,
       "target_measured": 299.98,
-      "peak_price": 274.0,
-      "current_price": 268.78,
+      "peak_price": 278.99,
+      "current_price": 270.76,
       "trail_sl_10ema": 254.08,
-      "hold_days": 1,
-      "unrealized_pnl_pct": 3.31,
-      "unrealized_pnl_rs": 549.92,
+      "hold_days": 2,
+      "unrealized_pnl_pct": 4.08,
+      "unrealized_pnl_rs": 676.64,
       "order_id": "DRY-BUY-WELSPUNLIV-1795197730",
-      "trail_sl_20ema": 245.71
+      "trail_sl_20ema": 248.09
     }
   },
   "watchlist": [
@@ -51,6 +51,21 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "risk_pct": 3.78,
       "target_measured": 2399.22,
       "added_at": "2026-11-20 23:32:10",
+      "bars_in_watch": 2
+    },
+    {
+      "symbol": "PPLPHARMA",
+      "shakeout_date": "2026-11-18",
+      "bars_ago": 2,
+      "flag_high": 253.9,
+      "flag_supp": 238.34,
+      "shakeout_low": 237.32,
+      "sl_price": 236.13,
+      "current_close": 239.3,
+      "pole_gain_pct": 28.7,
+      "risk_pct": 1.18,
+      "target_measured": 290.16,
+      "added_at": "2026-11-24 03:10:59",
       "bars_in_watch": 1
     },
     {
@@ -66,7 +81,7 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "risk_pct": 1.42,
       "target_measured": 511.78,
       "added_at": "2026-11-18 23:54:54",
-      "bars_in_watch": 3
+      "bars_in_watch": 4
     },
     {
       "symbol": "SONACOMS",
@@ -81,7 +96,7 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "risk_pct": 1.22,
       "target_measured": 1055.7,
       "added_at": "2026-11-20 23:32:10",
-      "bars_in_watch": 1
+      "bars_in_watch": 2
     },
     {
       "symbol": "ONESOURCE",
@@ -96,7 +111,22 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "risk_pct": 1.93,
       "target_measured": 1898.41,
       "added_at": "2026-11-18 23:54:54",
-      "bars_in_watch": 3
+      "bars_in_watch": 4
+    },
+    {
+      "symbol": "INDIGO",
+      "shakeout_date": "2026-11-18",
+      "bars_ago": 2,
+      "flag_high": 5712.0,
+      "flag_supp": 5491.1,
+      "shakeout_low": 5486.6,
+      "sl_price": 5459.17,
+      "current_close": 5587.6,
+      "pole_gain_pct": 23.2,
+      "risk_pct": 0.73,
+      "target_measured": 6412.44,
+      "added_at": "2026-11-24 03:10:59",
+      "bars_in_watch": 1
     },
     {
       "symbol": "GLENMARK",
@@ -111,7 +141,7 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "risk_pct": 1.09,
       "target_measured": 3013.81,
       "added_at": "2026-11-18 23:54:54",
-      "bars_in_watch": 3
+      "bars_in_watch": 4
     },
     {
       "symbol": "JYOTICNC",
@@ -126,7 +156,7 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "risk_pct": 1.58,
       "target_measured": 1236.85,
       "added_at": "2026-11-20 00:11:05",
-      "bars_in_watch": 2
+      "bars_in_watch": 3
     },
     {
       "symbol": "WIPRO",
@@ -141,7 +171,7 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "risk_pct": 2.49,
       "target_measured": 225.52,
       "added_at": "2026-11-20 23:32:10",
-      "bars_in_watch": 1
+      "bars_in_watch": 2
     },
     {
       "symbol": "MANKIND",
@@ -156,7 +186,7 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "risk_pct": 1.18,
       "target_measured": 3012.5,
       "added_at": "2026-11-18 23:54:54",
-      "bars_in_watch": 3
+      "bars_in_watch": 4
     },
     {
       "symbol": "HDFCAMC",
@@ -171,6 +201,21 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "risk_pct": 3.4,
       "target_measured": 3082.85,
       "added_at": "2026-11-20 23:32:10",
+      "bars_in_watch": 2
+    },
+    {
+      "symbol": "LTTS",
+      "shakeout_date": "2026-11-18",
+      "bars_ago": 2,
+      "flag_high": 4316.9,
+      "flag_supp": 4105.0,
+      "shakeout_low": 4090.0,
+      "sl_price": 4069.55,
+      "current_close": 4082.5,
+      "pole_gain_pct": 22.0,
+      "risk_pct": 0.64,
+      "target_measured": 4827.24,
+      "added_at": "2026-11-24 03:10:59",
       "bars_in_watch": 1
     },
     {
@@ -186,7 +231,7 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "risk_pct": 4.08,
       "target_measured": 643.69,
       "added_at": "2026-11-20 23:32:10",
-      "bars_in_watch": 1
+      "bars_in_watch": 2
     },
     {
       "symbol": "GLAND",
@@ -201,21 +246,21 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "risk_pct": 1.3,
       "target_measured": 3809.64,
       "added_at": "2026-11-18 23:54:54",
-      "bars_in_watch": 3
+      "bars_in_watch": 4
     },
     {
-      "symbol": "GROWW",
-      "shakeout_date": "2026-11-19",
-      "bars_ago": 1,
-      "flag_high": 233.4,
-      "flag_supp": 218.68,
-      "shakeout_low": 218.08,
-      "sl_price": 216.99,
-      "current_close": 224.57,
-      "pole_gain_pct": 20.7,
-      "risk_pct": 1.77,
-      "target_measured": 258.81,
-      "added_at": "2026-11-20 23:32:10",
+      "symbol": "TECHM",
+      "shakeout_date": "2026-11-18",
+      "bars_ago": 2,
+      "flag_high": 1860.0,
+      "flag_supp": 1755.5,
+      "shakeout_low": 1733.9,
+      "sl_price": 1725.23,
+      "current_close": 1746.2,
+      "pole_gain_pct": 20.9,
+      "risk_pct": 1.42,
+      "target_measured": 2067.62,
+      "added_at": "2026-11-24 03:10:59",
       "bars_in_watch": 1
     },
     {
@@ -231,7 +276,7 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "risk_pct": 1.37,
       "target_measured": 1625.16,
       "added_at": "2026-11-18 23:54:54",
-      "bars_in_watch": 3
+      "bars_in_watch": 4
     },
     {
       "symbol": "ETERNAL",
@@ -246,106 +291,7 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "risk_pct": 3.31,
       "target_measured": 417.91,
       "added_at": "2026-11-20 23:32:10",
-      "bars_in_watch": 1
-    },
-    {
-      "symbol": "SHYAMMETL",
-      "shakeout_date": "2026-11-19",
-      "bars_ago": 1,
-      "flag_high": 1381.9,
-      "flag_supp": 1296.1,
-      "shakeout_low": 1283.5,
-      "sl_price": 1277.08,
-      "current_close": 1314.3,
-      "pole_gain_pct": 20.2,
-      "risk_pct": 1.31,
-      "target_measured": 1529.13,
-      "added_at": "2026-11-20 23:32:10",
-      "bars_in_watch": 1
-    },
-    {
-      "symbol": "NUVAMA",
-      "shakeout_date": "2026-11-19",
-      "bars_ago": 1,
-      "flag_high": 1919.0,
-      "flag_supp": 1830.0,
-      "shakeout_low": 1822.0,
-      "sl_price": 1812.89,
-      "current_close": 1820.8,
-      "pole_gain_pct": 22.0,
-      "risk_pct": 1.18,
-      "target_measured": 2149.62,
-      "added_at": "2026-11-24 03:10:59"
-    },
-    {
-      "symbol": "TECHM",
-      "shakeout_date": "2026-11-18",
-      "bars_ago": 2,
-      "flag_high": 1860.0,
-      "flag_supp": 1755.5,
-      "shakeout_low": 1733.9,
-      "sl_price": 1725.23,
-      "current_close": 1746.2,
-      "pole_gain_pct": 20.9,
-      "risk_pct": 1.42,
-      "target_measured": 2067.62,
-      "added_at": "2026-11-24 03:10:59"
-    },
-    {
-      "symbol": "PPLPHARMA",
-      "shakeout_date": "2026-11-18",
-      "bars_ago": 2,
-      "flag_high": 253.9,
-      "flag_supp": 238.34,
-      "shakeout_low": 237.32,
-      "sl_price": 236.13,
-      "current_close": 239.3,
-      "pole_gain_pct": 28.7,
-      "risk_pct": 1.18,
-      "target_measured": 290.16,
-      "added_at": "2026-11-24 03:10:59"
-    },
-    {
-      "symbol": "ENGINERSIN",
-      "shakeout_date": "2026-11-19",
-      "bars_ago": 1,
-      "flag_high": 321.0,
-      "flag_supp": 307.2,
-      "shakeout_low": 301.05,
-      "sl_price": 299.54,
-      "current_close": 296.55,
-      "pole_gain_pct": 25.1,
-      "risk_pct": 2.59,
-      "target_measured": 363.22,
-      "added_at": "2026-11-24 03:10:59"
-    },
-    {
-      "symbol": "LTTS",
-      "shakeout_date": "2026-11-18",
-      "bars_ago": 2,
-      "flag_high": 4316.9,
-      "flag_supp": 4105.0,
-      "shakeout_low": 4090.0,
-      "sl_price": 4069.55,
-      "current_close": 4082.5,
-      "pole_gain_pct": 22.0,
-      "risk_pct": 0.64,
-      "target_measured": 4827.24,
-      "added_at": "2026-11-24 03:10:59"
-    },
-    {
-      "symbol": "INDIGO",
-      "shakeout_date": "2026-11-18",
-      "bars_ago": 2,
-      "flag_high": 5712.0,
-      "flag_supp": 5491.1,
-      "shakeout_low": 5486.6,
-      "sl_price": 5459.17,
-      "current_close": 5587.6,
-      "pole_gain_pct": 23.2,
-      "risk_pct": 0.73,
-      "target_measured": 6412.44,
-      "added_at": "2026-11-24 03:10:59"
+      "bars_in_watch": 2
     },
     {
       "symbol": "BAJFINANCE",
@@ -359,35 +305,190 @@ window.BREAKOUT_DASHBOARD_DATA = {
       "pole_gain_pct": 20.1,
       "risk_pct": 1.17,
       "target_measured": 1248.32,
-      "added_at": "2026-11-24 03:10:59"
+      "added_at": "2026-11-24 03:10:59",
+      "bars_in_watch": 1
+    },
+    {
+      "symbol": "SAREGAMA",
+      "shakeout_date": "2026-11-23",
+      "bars_ago": 0,
+      "flag_high": 693.4,
+      "flag_supp": 659.2,
+      "shakeout_low": 647.7,
+      "sl_price": 644.46,
+      "current_close": 657.6,
+      "pole_gain_pct": 22.4,
+      "risk_pct": 2.0,
+      "target_measured": 774.65,
+      "added_at": "2026-11-25 01:51:46"
+    },
+    {
+      "symbol": "ACUTAAS",
+      "shakeout_date": "2026-11-23",
+      "bars_ago": 0,
+      "flag_high": 4020.4,
+      "flag_supp": 3882.1,
+      "shakeout_low": 3720.2,
+      "sl_price": 3701.6,
+      "current_close": 3875.0,
+      "pole_gain_pct": 31.7,
+      "risk_pct": 4.47,
+      "target_measured": 4666.37,
+      "added_at": "2026-11-25 01:51:46"
+    },
+    {
+      "symbol": "CHOLAFIN",
+      "shakeout_date": "2026-11-23",
+      "bars_ago": 0,
+      "flag_high": 1884.7,
+      "flag_supp": 1835.0,
+      "shakeout_low": 1822.5,
+      "sl_price": 1813.39,
+      "current_close": 1831.0,
+      "pole_gain_pct": 20.7,
+      "risk_pct": 0.96,
+      "target_measured": 2093.09,
+      "added_at": "2026-11-25 01:51:46"
+    },
+    {
+      "symbol": "ANURAS",
+      "shakeout_date": "2026-11-23",
+      "bars_ago": 0,
+      "flag_high": 1339.5,
+      "flag_supp": 1308.0,
+      "shakeout_low": 1293.2,
+      "sl_price": 1286.73,
+      "current_close": 1313.6,
+      "pole_gain_pct": 21.2,
+      "risk_pct": 2.05,
+      "target_measured": 1490.17,
+      "added_at": "2026-11-25 01:51:46"
+    },
+    {
+      "symbol": "ENGINERSIN",
+      "shakeout_date": "2026-11-19",
+      "bars_ago": 2,
+      "flag_high": 321.0,
+      "flag_supp": 307.2,
+      "shakeout_low": 301.05,
+      "sl_price": 299.54,
+      "current_close": 298.4,
+      "pole_gain_pct": 25.1,
+      "risk_pct": 2.59,
+      "target_measured": 363.22,
+      "added_at": "2026-11-25 01:51:46"
+    },
+    {
+      "symbol": "GROWW",
+      "shakeout_date": "2026-11-19",
+      "bars_ago": 2,
+      "flag_high": 233.4,
+      "flag_supp": 218.68,
+      "shakeout_low": 218.08,
+      "sl_price": 216.99,
+      "current_close": 216.46,
+      "pole_gain_pct": 20.7,
+      "risk_pct": 1.77,
+      "target_measured": 258.81,
+      "added_at": "2026-11-25 01:51:46"
+    },
+    {
+      "symbol": "SHYAMMETL",
+      "shakeout_date": "2026-11-19",
+      "bars_ago": 2,
+      "flag_high": 1381.9,
+      "flag_supp": 1296.1,
+      "shakeout_low": 1283.5,
+      "sl_price": 1277.08,
+      "current_close": 1276.2,
+      "pole_gain_pct": 20.2,
+      "risk_pct": 1.31,
+      "target_measured": 1529.13,
+      "added_at": "2026-11-25 01:51:46"
+    },
+    {
+      "symbol": "EMCURE",
+      "shakeout_date": "2026-11-23",
+      "bars_ago": 0,
+      "flag_high": 2402.0,
+      "flag_supp": 2321.5,
+      "shakeout_low": 2278.1,
+      "sl_price": 2266.71,
+      "current_close": 2309.9,
+      "pole_gain_pct": 27.2,
+      "risk_pct": 1.87,
+      "target_measured": 2735.12,
+      "added_at": "2026-11-25 01:51:46"
     },
     {
       "symbol": "RKFORGE",
       "shakeout_date": "2026-11-19",
-      "bars_ago": 1,
+      "bars_ago": 2,
       "flag_high": 804.0,
       "flag_supp": 771.05,
       "shakeout_low": 752.15,
       "sl_price": 748.39,
-      "current_close": 745.75,
+      "current_close": 749.35,
       "pole_gain_pct": 20.7,
       "risk_pct": 2.49,
       "target_measured": 892.71,
-      "added_at": "2026-11-24 03:10:59"
+      "added_at": "2026-11-25 01:51:46"
+    },
+    {
+      "symbol": "NUVAMA",
+      "shakeout_date": "2026-11-19",
+      "bars_ago": 2,
+      "flag_high": 1919.0,
+      "flag_supp": 1830.0,
+      "shakeout_low": 1822.0,
+      "sl_price": 1812.89,
+      "current_close": 1758.3,
+      "pole_gain_pct": 22.0,
+      "risk_pct": 1.18,
+      "target_measured": 2149.62,
+      "added_at": "2026-11-25 01:51:46"
+    },
+    {
+      "symbol": "LODHA",
+      "shakeout_date": "2026-11-20",
+      "bars_ago": 1,
+      "flag_high": 1237.8,
+      "flag_supp": 1175.5,
+      "shakeout_low": 1174.5,
+      "sl_price": 1168.63,
+      "current_close": 1219.0,
+      "pole_gain_pct": 24.3,
+      "risk_pct": 4.11,
+      "target_measured": 1395.56,
+      "added_at": "2026-11-25 01:51:46"
+    },
+    {
+      "symbol": "LENSKART",
+      "shakeout_date": "2026-11-23",
+      "bars_ago": 0,
+      "flag_high": 752.75,
+      "flag_supp": 716.3,
+      "shakeout_low": 711.35,
+      "sl_price": 707.79,
+      "current_close": 714.5,
+      "pole_gain_pct": 22.5,
+      "risk_pct": 0.94,
+      "target_measured": 843.78,
+      "added_at": "2026-11-25 01:51:46"
     },
     {
       "symbol": "LINDEINDIA",
       "shakeout_date": "2026-11-19",
-      "bars_ago": 1,
+      "bars_ago": 2,
       "flag_high": 7009.5,
       "flag_supp": 6761.5,
       "shakeout_low": 6720.0,
       "sl_price": 6686.4,
-      "current_close": 6572.0,
+      "current_close": 6961.5,
       "pole_gain_pct": 24.4,
       "risk_pct": 0.82,
       "target_measured": 7913.0,
-      "added_at": "2026-11-24 03:10:59"
+      "added_at": "2026-11-25 01:51:46"
     }
   ],
   "closed_trades": [],
